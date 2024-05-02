@@ -1,0 +1,23 @@
+,,,,,,,,,,,,,,
+Big Question: How do traffic signals at intersections influence the safety and mobility of older pedestrians?,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Age (65+),Mobility Impairments? (Y/N),If specified..,"How often do you walk in urban areas? (Daily, several times a week, Weekly, Rarely)","On a scale of 1- 5, how safe do you generally feel crossing intersections?",Do you find standard traffic signals easy to understand and follow? (Yes/ No),Do you feel that you have enough time to cross the street at intersections?,Are the pedestrian signals at intersections clear and easy to see? (Yes/ No),Are auditory cues helpful to you at an intersection?  (Yes/ No),Would you prefer more intersections to have auditory signals? (Yes/ No),Have you used intersections with pedestrian tactile paving?,Experience,Have you ever experienced a near-miss or an accident at an intersection?,What changes at intersections would make you feel safer and more confident as a pedestrian?
+Person 1 ,75,Yes,knee,Daily,5,Yes,Yes,Yes,Yes,Yes,Yes,"very good, prevented him from slipping. He mentioned a bad experience in midtown without that paving ",No,standarize more across the entire city
+Person 2 ,67,No,,Daily,5,Yes,Yes,Yes,Yes,Yes,Yes,good,No,
+Person 3,72,Yes,knee,Several Times a Week,3,No,No,Yes,Yes,Yes,Yes,good,No,have a person walk them at intersections
+Person 4,82,Yes,wheelchair,Weekly,3,Yes,No,Yes,Yes,Yes,Yes,good,No,more auditory
+Person 5 ,66,No,,Several Times a Week,4,Yes,Yes,Yes,Yes,No,Yes,indifferent,No,more time to cross
+Person 6 ,70,Yes,knee,Daily,4,Yes,Yes,Yes,Yes,Yes,Yes,very helpful,No,more time to cross
+Person 7 ,68,No,,Several Times a Week,4,Yes,Yes,Yes,Yes,Yes,Yes,very good ,No,"doesnt know, they dont follow traffic rules"
+Person 8 ,87,No,,Several Times a Week,4,Yes,Yes,Yes,Yes,Yes,Yes,very good,No,more pedestrian islands
+Person 9 ,70,Yes,knee,Daily,5,Yes,No,Yes,Yes,Yes,Yes,good,No,
+Person 10 ,72,Yes,hip problems,Several Times a Week,5,Yes,Yes,Yes,Yes,Yes,Yes,very good,No,button to cross doesnt seem to work 
+Person 11,65,Yes,knee,Several Times a Week,4,Yes,Yes,Yes,Yes,Yes,Yes,helpful,No,doesnt follow traffic rules
+Person 12,87,Yes,wheelchair,Rarely,2,Yes,No,No,Yes,Yes,Yes,helpful ,No,
+Person 13,67,No,,Daily,4,Yes,Yes,Yes,No,No,Yes,makes them feel secure,No,spoken messages are better than beep sounds
+Person 14 ,72,No,,Daily,5,Yes,No,No,Yes,Yes,Yes,prevents slipping,No,auditory signal should be louder
+Person 15,71,Yes,didnt want to share,Several Times a Week,4,Yes,Yes,Yes,Yes,Yes,Yes,good,No,
+Person 16,63,Yes,knee,Weekly,4,Yes,No,Yes,Yes,Yes,No,good,Yes,more time to cross 
+Person 17,65,Yes,knee,Weekly,5,Yes,Yes,Yes,Yes,Yes,Yes,indifferent,No,police presence
+Person 18,69,Yes,didnt want to share,Daily,5,Yes,Yes,Yes,Yes,Yes,Yes,good good ,No,
+Person 19,75,Yes,hip,Rarely,5,Yes,No,Yes,Yes,Yes,Yes,helpful,No,more time to cross
