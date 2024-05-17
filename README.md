@@ -166,8 +166,11 @@ Future research that can build upon the findings of this study include expanding
 
 ## References
 [1] "Challengesinroadcrossingforolderpedestrians."AgeandAgeing,vol.41,no.5,2012,pp.690-693, academic.oup.com/ageing/article/41/5/690/47318. Accessed 26 May 2024.
+
 [2] "PedestrianSafetyinOlderAdults."Lifespan,www.lifespan.org/health-wellness/injury-prevention- center/pedestrian-safety-older-adults. Accessed 29 April 2024.
+
 [3] Rogers, Christopher S., et al. "Sensory-specific impairment among older people. An investigation using both sensory thresholds and subjective measures across the five senses." PLOS ONE, jour- nals.plos.org/plosone/article?id=10.1371/journal.pone.0123095. Accessed 28 April 2024.
+
 [4] "Walking speeds and pedestrian signals." Age and Ageing, vol. 39, no. 1, 2010, pp. 80-85, aca- demic.oup.com/ageing/article/39/1/80/41325. Accessed 26 May 2024.
 
 
